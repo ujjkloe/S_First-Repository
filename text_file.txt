@@ -1,0 +1,3 @@
+Hey everyone! how are u all? Hello World!
+print("Hello World") is the first code is had written in my coding 
+journey!!
